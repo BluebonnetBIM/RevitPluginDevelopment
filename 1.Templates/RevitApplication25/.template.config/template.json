@@ -1,0 +1,14 @@
+{
+    "author": "Austin Cassel",
+    "classification": [],
+    "identity": "Revit.Application.Template.25",
+    "name": "Revit Application Template 2025",
+    "description": "This is a C# template for an External Application in Revit 2025",
+    "shortName": "RevitApp25",
+    "sourceName": "RevitApplication25",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}

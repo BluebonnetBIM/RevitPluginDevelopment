@@ -1,0 +1,12 @@
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\bin\Debug\RevitApplication25.deps.json
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\bin\Debug\RevitApplication25.dll
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\bin\Debug\RevitApplication25.pdb
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.csproj.AssemblyReference.cache
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.AssemblyInfoInputs.cache
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.AssemblyInfo.cs
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.csproj.CoreCompileInputs.cache
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.dll
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\refint\RevitApplication25.dll
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\RevitApplication25.pdb
+D:\Programming\1. Revit Plugin Development\1. Templates\RevitApplication25\obj\Debug\ref\RevitApplication25.dll

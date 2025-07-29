@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>RevitApplication25</Name>
+        <Assembly>RevitApplication25.dll</Assembly>
+        <AddInId><!--Unique GUID--></AddInId>
+        <FullClassName>RevitApplication25.Constructor</FullClassName>
+        <VendorId></VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+</RevitAddIns>

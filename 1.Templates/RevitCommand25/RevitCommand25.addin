@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>RevitCommand25</Name>
+        <Assembly><!--Full path to dll file--></Assembly>
+        <AddInId><!--Unique GUID--></AddInId>
+        <FullClassName><!--Full name of the class in the assembly file which implements IExternalCommand-->></FullClassName>
+        <Text>RevitCommand25</Text>
+        <VendorId>TCS Mech</VendorId>
+        <VendorDescription>TCS Mechanical LLC., www.tcsmech.com</VendorDescription>
+        <Description><!--Text that will be used as the short tooltip--></Description>
+        <LongDescription><!--Text that will be used as part of the Extended tooltip--></LongDescription>
+    </AddIn>
+</RevitAddIns>

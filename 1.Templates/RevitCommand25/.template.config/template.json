@@ -1,0 +1,14 @@
+{
+    "author": "Austin Cassel",
+    "classification": [],
+    "identity": "Revit.Command.Template.25",
+    "name": "Revit Command Template 2025",
+    "description": "This is a C# template for an External Command in Revit 2025",
+    "shortName": "RevitCommand25",
+    "sourceName": "RevitCommand25",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
