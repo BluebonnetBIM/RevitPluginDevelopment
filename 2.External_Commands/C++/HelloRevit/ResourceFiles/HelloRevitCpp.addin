@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>Hello Revit C++</Text>
+		<Description>My first C++ Revit add-in</Description>
+		<Assembly><!--Path to your .dll file--></Assembly>
+		<FullClassName>HelloRevitCpp.Command</FullClassName>
+		<ClientId>be7f62ce-d5d0-4b3b-9298-327c2c6d22f4</ClientId>
+	</AddIn>
+</RevitAddIns>
