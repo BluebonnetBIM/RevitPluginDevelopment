@@ -11,10 +11,10 @@ Result Command::Execute(ExternalCommandData^ commandData, String^% message, Elem
 	Document^ doc = uiDoc->Document;
 
 	// Define the view name to export
-	if (doc->Title == "Frost Arboretum_R25") {
+	if (doc->Title == "") {
 		
 		// Define the view name were looking for as a variable
-		String^ viewName = "TCS_NWC_Overall";
+		String^ viewName = "";
 
 		// Find the 3D view
 		FilteredElementCollector^ collector = gcnew FilteredElementCollector(doc);
@@ -61,5 +61,5 @@ Result Command::Execute(ExternalCommandData^ commandData, String^% message, Elem
 		}
 	}
 
-	TaskDialog::Show("Navis Exporter", "Active document is not Frost Arboretum");
+	TaskDialog::Show("Navis Exporter", "");
 }
