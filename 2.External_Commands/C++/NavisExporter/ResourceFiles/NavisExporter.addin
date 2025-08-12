@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>Navis Exporter</Text>
+		<Description>Navis Exporter for Frost Arboretum</Description>
+		<Assembly>"D:\Programming\1. Revit Plugin Development\Project2\x64\Debug\Project2.dll"</Assembly>
+		<FullClassName>NavisExporter.Command</FullClassName>
+		<ClientId>C0E5FEFD-85BC-488A-9E56-3389B04F67B0</ClientId>
+		<VendorId>TCS Mechanical</VendorId>
+	</AddIn>
+</RevitAddIns>
